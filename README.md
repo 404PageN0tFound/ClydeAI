@@ -2,13 +2,8 @@
 Random stuff related to ClydeAI such as backstories, jailbreaks, tons more.
 
 # Jailbreaks
-### Note
-Most of this are inspired or stolen from [ChatGPT Jailbreak](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) but edited to better match Discord's ClydeAI.
 
-
-## Jailbreaks
-
-#### NOTE
+#### Note
 The first 3 jailbreaks were taken from [here](https://gist.github.com/hackermondev/7bd398fd08135932ac225440486f69c2).
 
 **DAN PROMPT**
